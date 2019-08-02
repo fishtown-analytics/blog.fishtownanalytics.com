@@ -1,0 +1,257 @@
+[
+    {
+        "from": "/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/dbt-v0-14-0-better-serving-our-users-bf7cdbbcd5d2",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/how-monzo-the-uks-favorite-mobile-only-bank-is-rolling-out-dbt-73cfb7aea718",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/three-years-in-things-are-heating-up-2a72110d161d",
+        "to": "https://blog.getdbt.com/what-s-in-a-name-/",
+        "permanent": true
+    },
+    {
+        "from": "/two-years-in-and-its-just-getting-good-26c5c133c4b9",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/welcome-to-fishtown-analytics-65da7bab9903",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/analytics-tools-vs-people-a48beb83d697",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/analytics-is-a-trade-2cabf5d33be3",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/goodbye-rjmetrics-hello-fishtown-analytics-3fa0ae00e9cd",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/analysts-need-collaboration-workflow-tools-stat-92aa8501a0d7",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b",
+        "to": "",
+        "permanent": true
+    },
+    {
+        "from": "/whats-in-a-name-d880c130f36f",
+        "to": "https://blog.getdbt.com/what-s-in-a-name-/",
+        "permanent": true
+    },
+    {
+        "from": "/three-years-in-things-are-heating-up-2a72110d161d",
+        "to": "https://blog.getdbt.com/three-years-in-things-are-heating-up/",
+        "permanent": true
+    },
+    {
+        "from": "/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8",
+        "to": "https://blog.getdbt.com/a-wave-of-acquisitions-in-business-intelligence/",
+        "permanent": true
+    },
+    {
+        "from": "/how-to-unnest-arrays-in-redshift-d4fd15f87656",
+        "to": "https://blog.getdbt.com/how-to-unnest-arrays-in-redshift/",
+        "permanent": true
+    },
+    {
+        "from": "/pricing-vision-fit-513575238558",
+        "to": "https://blog.getdbt.com/pricing-vision-fit/",
+        "permanent": true
+    },
+    {
+        "from": "/dbt-learn-analytics-engineering-for-data-analysts-2a55815b9707",
+        "to": "https://blog.getdbt.com/dbt-learn-analytics-engineering-for-data-analysts/",
+        "permanent": true
+    },
+    {
+        "from": "/how-we-configure-snowflake-fc13f1eb36c4",
+        "to": "https://blog.getdbt.com/how-we-configure-snowflake/",
+        "permanent": true
+    },
+    {
+        "from": "/is-dbt-the-right-tool-for-my-data-transformations-1d2d1aa80de3",
+        "to": "https://blog.getdbt.com/is-dbt-the-right-tool-for-my-data-transformations/",
+        "permanent": true
+    },
+    {
+        "from": "/introducing-dbt-cloud-579df57e24d8",
+        "to": "https://blog.getdbt.com/introducing-dbt-cloud/",
+        "permanent": true
+    },
+    {
+        "from": "/how-we-made-dbt-runs-30-faster-64b91db3f9c5",
+        "to": "https://blog.getdbt.com/how-we-made-dbt-runs-30--faster/",
+        "permanent": true
+    },
+    {
+        "from": "/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9",
+        "to": "https://blog.getdbt.com/does-my-startup-data-team-need-a-data-engineer-/",
+        "permanent": true
+    },
+    {
+        "from": "/scaling-knowledge-160f9f5a9b6c",
+        "to": "https://blog.getdbt.com/scaling-knowledge/",
+        "permanent": true
+    },
+    {
+        "from": "/using-dbt-docs-fae6137da3c3",
+        "to": "https://blog.getdbt.com/using-dbt-docs/",
+        "permanent": true
+    },
+    {
+        "from": "/data-warehouse-design-with-dbt-0-10-2-e58380ee88b7",
+        "to": "https://blog.getdbt.com/data-warehouse-design-with-dbt-0-10-2/",
+        "permanent": true
+    },
+    {
+        "from": "/sinter-release-notes-august-2018-pull-request-builder-fine-grained-github-permissions-and-more-ad0bcd091f5f",
+        "to": "https://blog.getdbt.com/sinter-release-notes-august-2018-pull-request-builder-fine-grained-github-permissions-and-more/",
+        "permanent": true
+    },
+    {
+        "from": "/two-years-in-and-its-just-getting-good-26c5c133c4b9",
+        "to": "https://blog.getdbt.com/two-years-in-and-it-s-just-getting-good/",
+        "permanent": true
+    },
+    {
+        "from": "/one-analysts-guide-for-going-from-good-to-great-6697e67e37d9",
+        "to": "https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/",
+        "permanent": true
+    },
+    {
+        "from": "/how-to-safely-convert-strings-to-integers-in-redshift-a4d7aa39c70",
+        "to": "https://blog.getdbt.com/how-to-safely-convert-strings-to-integers-in-redshift/",
+        "permanent": true
+    },
+    {
+        "from": "/on-two-years-of-dbt-6fcdff942d4d",
+        "to": "https://blog.getdbt.com/on-two-years-of-dbt/",
+        "permanent": true
+    },
+    {
+        "from": "/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304",
+        "to": "https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/",
+        "permanent": true
+    },
+    {
+        "from": "/how-to-integrate-dbt-and-looker-with-user-attributes-117fa48c1568",
+        "to": "https://blog.getdbt.com/how-to-integrate-dbt-and-looker-with-user-attributes/",
+        "permanent": true
+    },
+    {
+        "from": "/using-redshifts-late-binding-views-with-dbt-e735d80f9cfc",
+        "to": "https://blog.getdbt.com/using-redshift-s-late-binding-views-with-dbt/",
+        "permanent": true
+    },
+    {
+        "from": "/how-to-design-your-looker-explores-171e28465add",
+        "to": "https://blog.getdbt.com/how-to-design-your-looker-explores/",
+        "permanent": true
+    },
+    {
+        "from": "/the-missing-layers-of-the-analytics-stack-af420e6214bd",
+        "to": "https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack/",
+        "permanent": true
+    },
+    {
+        "from": "/installing-dbt-packages-83e28210f4e6",
+        "to": "https://blog.getdbt.com/installing-dbt-packages/",
+        "permanent": true
+    },
+    {
+        "from": "/whats-new-in-dbt-0-9-0-dd36f3572ac6",
+        "to": "https://blog.getdbt.com/what-s-new-in-dbt-0-9-0/",
+        "permanent": true
+    },
+    {
+        "from": "/what-exactly-is-dbt-47ba57309068",
+        "to": "https://blog.getdbt.com/what--exactly--is-dbt-/",
+        "permanent": true
+    },
+    {
+        "from": "/analytics-playbook-log-tables-7df0e6aacb42",
+        "to": "https://blog.getdbt.com/analytics-playbook-log-tables/",
+        "permanent": true
+    },
+    {
+        "from": "/why-doesnt-dbt-support-python-4677caea5cab",
+        "to": "https://blog.getdbt.com/why-doesn-t-dbt-support-python-/",
+        "permanent": true
+    },
+    {
+        "from": "/one-year-in-were-still-in-business-41f959938c70",
+        "to": "https://blog.getdbt.com/one-year-in--we-re-still-in-business/",
+        "permanent": true
+    },
+    {
+        "from": "/the-most-underutilized-function-in-sql-9279b536ed1a",
+        "to": "https://blog.getdbt.com/the-most-underutilized-function-in-sql/",
+        "permanent": true
+    },
+    {
+        "from": "/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure-281e0860f9a9",
+        "to": "https://blog.getdbt.com/what-are-the-steps---tools-in-setting-up-a-modern--saas-based-bi-infrastructure-/",
+        "permanent": true
+    },
+    {
+        "from": "/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9",
+        "to": "https://blog.getdbt.com/is-looker-the-right-business-intelligence-tool-for-my-company-/",
+        "permanent": true
+    },
+    {
+        "from": "/analytics-tools-vs-people-a48beb83d697",
+        "to": "https://blog.getdbt.com/analytics--tools-vs--people/",
+        "permanent": true
+    },
+    {
+        "from": "/analytics-is-a-trade-2cabf5d33be3",
+        "to": "https://blog.getdbt.com/analytics-is-a-trade/",
+        "permanent": true
+    },
+    {
+        "from": "/goodbye-rjmetrics-hello-fishtown-analytics-3fa0ae00e9cd",
+        "to": "https://blog.getdbt.com/goodbye-rjmetrics--hello-fishtown-analytics/",
+        "permanent": true
+    },
+    {
+        "from": "/its-time-for-open-source-analytics-194902ae5c5",
+        "to": "https://blog.getdbt.com/it-s-time-for-open-source-analytics/",
+        "permanent": true
+    },
+    {
+        "from": "/analyzing-your-mailchimp-data-part-1-measuring-core-email-performance-8c45640155f9",
+        "to": "https://blog.getdbt.com/analyzing-your-mailchimp-data--part-1--measuring-email-marketing-performance/",
+        "permanent": true
+    },
+    {
+        "from": "/analyzing-your-stripe-data-part-1-measuring-subscription-mrr-603d3597e289",
+        "to": "https://blog.getdbt.com/analyzing-your-stripe-data--part-1--measuring-subscription-mrr/",
+        "permanent": true
+    },
+    {
+        "from": "/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b",
+        "to": "https://blog.getdbt.com/building-a-mature-analytics-workflow/",
+        "permanent": true
+    }
+]
