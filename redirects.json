@@ -1,57 +1,57 @@
 [
     {
         "from": "/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce",
-        "to": "",
+        "to": "https://blog.getdbt.com/five-principles-that-will-keep-your-data-warehouse-organized/",
         "permanent": true
     },
     {
         "from": "/dbt-v0-14-0-better-serving-our-users-bf7cdbbcd5d2",
-        "to": "",
+        "to": "https://blog.getdbt.com/dbt-v0-14-0-better-serving-our-users/",
         "permanent": true
     },
     {
         "from": "/how-monzo-the-uks-favorite-mobile-only-bank-is-rolling-out-dbt-73cfb7aea718",
-        "to": "",
+        "to": "https://blog.getdbt.com/how-monzo-the-uks-favorite-mobile-only-bank-is-rolling-out-dbt/",
         "permanent": true
     },
     {
-        "from": "/three-years-in-things-are-heating-up-2a72110d161d",
-        "to": "https://blog.getdbt.com/what-s-in-a-name-/",
-        "permanent": true
-    },
-    {
-        "from": "/two-years-in-and-its-just-getting-good-26c5c133c4b9",
-        "to": "",
+        "from": "/why-we-build-singer-taps-for-our-clients-e5aa81370131",
+        "to": "/why-we-build-singer-taps-for-our-clients/",
         "permanent": true
     },
     {
         "from": "/welcome-to-fishtown-analytics-65da7bab9903",
-        "to": "",
+        "to": "/welcome-to-fishtown-analytics/",
+        "permanent": true
+    },
+    {
+        "from": "/welcome-to-fishtown-1556f74d5fee",
+        "to": "/welcome-to-fishtown/",
         "permanent": true
     },
     {
         "from": "/analytics-tools-vs-people-a48beb83d697",
-        "to": "",
+        "to": "/analytics-tools-vs-people/",
         "permanent": true
     },
     {
         "from": "/analytics-is-a-trade-2cabf5d33be3",
-        "to": "",
+        "to": "/analytics-is-a-trade/",
         "permanent": true
     },
     {
         "from": "/goodbye-rjmetrics-hello-fishtown-analytics-3fa0ae00e9cd",
-        "to": "",
+        "to": "/goodbye-rjmetrics-hello-fishtown-analytics/",
         "permanent": true
     },
     {
         "from": "/analysts-need-collaboration-workflow-tools-stat-92aa8501a0d7",
-        "to": "",
+        "to": "/analysts-need-collaboration-workflow-tools/",
         "permanent": true
     },
     {
         "from": "/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b",
-        "to": "",
+        "to": "/building-a-mature-analytics-workflow/",
         "permanent": true
     },
     {
@@ -220,38 +220,18 @@
         "permanent": true
     },
     {
-        "from": "/analytics-tools-vs-people-a48beb83d697",
-        "to": "https://blog.getdbt.com/analytics--tools-vs--people/",
-        "permanent": true
-    },
-    {
-        "from": "/analytics-is-a-trade-2cabf5d33be3",
-        "to": "https://blog.getdbt.com/analytics-is-a-trade/",
-        "permanent": true
-    },
-    {
-        "from": "/goodbye-rjmetrics-hello-fishtown-analytics-3fa0ae00e9cd",
-        "to": "https://blog.getdbt.com/goodbye-rjmetrics--hello-fishtown-analytics/",
-        "permanent": true
-    },
-    {
         "from": "/its-time-for-open-source-analytics-194902ae5c5",
         "to": "https://blog.getdbt.com/it-s-time-for-open-source-analytics/",
         "permanent": true
     },
     {
         "from": "/analyzing-your-mailchimp-data-part-1-measuring-core-email-performance-8c45640155f9",
-        "to": "https://blog.getdbt.com/analyzing-your-mailchimp-data--part-1--measuring-email-marketing-performance/",
+        "to": "/analyzing-your-mailchimp-data-part-1-measuring-email-marketing-performance/",
         "permanent": true
     },
     {
         "from": "/analyzing-your-stripe-data-part-1-measuring-subscription-mrr-603d3597e289",
-        "to": "https://blog.getdbt.com/analyzing-your-stripe-data--part-1--measuring-subscription-mrr/",
-        "permanent": true
-    },
-    {
-        "from": "/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b",
-        "to": "https://blog.getdbt.com/building-a-mature-analytics-workflow/",
+        "to": "/analyzing-your-stripe-data-part-1-measuring-subscription-mrr/",
         "permanent": true
     }
 ]
