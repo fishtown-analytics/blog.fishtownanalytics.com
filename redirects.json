@@ -233,5 +233,10 @@
         "from": "/analyzing-your-stripe-data-part-1-measuring-subscription-mrr-603d3597e289",
         "to": "/analyzing-your-stripe-data-part-1-measuring-subscription-mrr/",
         "permanent": true
+    },
+    {
+        "from": "/how-compatible-are-redshift-and-snowflakes-sql-syntaxes-c2103a43ae84",
+        "to": "/how-compatible-are-redshift-and-snowflakes-sql-syntaxes/",
+        "permanent": true
     }
 ]
