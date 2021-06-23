@@ -16,44 +16,49 @@
     },
     {
         "from": "/why-we-build-singer-taps-for-our-clients-e5aa81370131",
-        "to": "/why-we-build-singer-taps-for-our-clients/",
+        "to": "https://blog.getdbt.com/",
         "permanent": true
     },
     {
         "from": "/welcome-to-fishtown-analytics-65da7bab9903",
-        "to": "/welcome-to-fishtown-analytics/",
+        "to": "https://blog.getdbt.com/welcome-to-fishtown-analytics/",
         "permanent": true
     },
     {
         "from": "/welcome-to-fishtown-1556f74d5fee",
-        "to": "/welcome-to-fishtown/",
+        "to": "https://blog.getdbt.com/welcome-to-fishtown/",
         "permanent": true
-    },
+    },    
     {
         "from": "/analytics-tools-vs-people-a48beb83d697",
-        "to": "/analytics-tools-vs-people/",
+        "to": "https://blog.getdbt.com/",
         "permanent": true
     },
     {
         "from": "/analytics-is-a-trade-2cabf5d33be3",
-        "to": "/analytics-is-a-trade/",
+        "to": "https://blog.getdbt.com/analytics-is-a-trade/",
         "permanent": true
     },
     {
         "from": "/goodbye-rjmetrics-hello-fishtown-analytics-3fa0ae00e9cd",
-        "to": "/goodbye-rjmetrics-hello-fishtown-analytics/",
+        "to": "https://blog.getdbt.com/goodbye-rjmetrics-hello-fishtown-analytics/",
         "permanent": true
-    },
+    },    
     {
         "from": "/analysts-need-collaboration-workflow-tools-stat-92aa8501a0d7",
-        "to": "/analysts-need-collaboration-workflow-tools/",
+        "to": "https://blog.getdbt.com/",
         "permanent": true
     },
     {
         "from": "/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b",
-        "to": "/building-a-mature-analytics-workflow/",
+        "to": "https://blog.getdbt.com/building-a-mature-analytics-workflow/",
         "permanent": true
     },
+    {
+        "from": "/building-a-mature-analytics-workflow/",
+        "to": "https://blog.getdbt.com/building-a-mature-analytics-workflow/",
+        "permanent": true
+    },    
     {
         "from": "/whats-in-a-name-d880c130f36f",
         "to": "https://blog.getdbt.com/what-s-in-a-name-/",
@@ -226,12 +231,17 @@
     },
     {
         "from": "/analyzing-your-mailchimp-data-part-1-measuring-core-email-performance-8c45640155f9",
-        "to": "/analyzing-your-mailchimp-data-part-1-measuring-email-marketing-performance/",
+        "to": "https://blog.getdbt.com/",
         "permanent": true
     },
     {
         "from": "/analyzing-your-stripe-data-part-1-measuring-subscription-mrr-603d3597e289",
-        "to": "/analyzing-your-stripe-data-part-1-measuring-subscription-mrr/",
+        "to": "https://blog.getdbt.com/modeling-subscription-revenue/",
+        "permanent": true
+    },
+    {
+        "from": "/welcome-youre-now-a-software-developer/",
+        "to": "https://blog.getdbt.com/welcome-youre-now-a-software-developer/",
         "permanent": true
     }
 ]
