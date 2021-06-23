@@ -1,5 +1,10 @@
 [
     {
+        "from": "/",
+        "to": "https://blog.getdbt.com/",
+        "permanent": true
+    },
+    {
         "from": "/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce",
         "to": "https://blog.getdbt.com/five-principles-that-will-keep-your-data-warehouse-organized/",
         "permanent": true
