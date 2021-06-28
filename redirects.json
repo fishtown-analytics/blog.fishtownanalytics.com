@@ -111,12 +111,12 @@
     },
     {
         "from": "/how-we-made-dbt-runs-30-faster-64b91db3f9c5",
-        "to": "https://blog.getdbt.com/how-we-made-dbt-runs-30--faster/",
+        "to": "https://blog.getdbt.com/how-we-made-dbt-runs-30-faster/",
         "permanent": true
     },
     {
         "from": "/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9",
-        "to": "https://blog.getdbt.com/does-my-startup-data-team-need-a-data-engineer-/",
+        "to": "https://www.getdbt.com/data-teams/hiring-data-engineer/",
         "permanent": true
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "from": "/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304",
-        "to": "https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/",
+        "to": "https://blog.getdbt.com/how-do-you-decide-what-to-model-in-dbt-vs-lookml/",
         "permanent": true
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "from": "/what-exactly-is-dbt-47ba57309068",
-        "to": "https://blog.getdbt.com/what--exactly--is-dbt-/",
+        "to": "https://blog.getdbt.com/what-exactly-is-dbt/",
         "permanent": true
     },
     {
@@ -206,12 +206,12 @@
     },
     {
         "from": "/why-doesnt-dbt-support-python-4677caea5cab",
-        "to": "https://blog.getdbt.com/why-doesn-t-dbt-support-python-/",
+        "to": "https://blog.getdbt.com/why-doesn-t-dbt-support-python/",
         "permanent": true
     },
     {
         "from": "/one-year-in-were-still-in-business-41f959938c70",
-        "to": "https://blog.getdbt.com/one-year-in--we-re-still-in-business/",
+        "to": "https://blog.getdbt.com/one-year-in-we-re-still-in-business/",
         "permanent": true
     },
     {
@@ -221,12 +221,12 @@
     },
     {
         "from": "/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure-281e0860f9a9",
-        "to": "https://blog.getdbt.com/what-are-the-steps---tools-in-setting-up-a-modern--saas-based-bi-infrastructure-/",
+        "to": "https://blog.getdbt.com/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure/",
         "permanent": true
     },
     {
         "from": "/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9",
-        "to": "https://blog.getdbt.com/is-looker-the-right-business-intelligence-tool-for-my-company-/",
+        "to": "https://blog.getdbt.com/is-looker-the-right-business-intelligence-tool-for-my-company/",
         "permanent": true
     },
     {
